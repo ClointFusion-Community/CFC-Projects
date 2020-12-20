@@ -1,0 +1,1 @@
+['import ClointFusion as cf\n', "cf.launch_any_exe_bat_application('notepad')\n", "cf.key_write_enter('G',key='')\n", "cf.key_press('shift')\n", "cf.key_write_enter('Opal',key='')\n", 'cf.key_hit_enter()\n', "cf.key_press('alt+f4')\n", "cf.key_write_enter('n',key='')\n"]
